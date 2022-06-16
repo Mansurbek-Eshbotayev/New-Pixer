@@ -395,6 +395,9 @@ img{
   text-align: center;
   text-decoration-line: underline;
   color: #00BAFC;
+}
+
+.ordering__link:nth-child(2){
   margin-left: 16px;
 }
 
